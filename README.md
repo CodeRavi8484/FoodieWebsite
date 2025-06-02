@@ -1,2 +1,2 @@
 # FoodieWebsite
-fast Food Webiste with name foodie.
+This a Foodie Website that contains many features.
